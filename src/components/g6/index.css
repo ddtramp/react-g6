@@ -1,0 +1,13 @@
+.blade__insight__index {
+    position: relative;
+}
+
+.blade__insight__index  .g6-grid {
+    width: 100% !important;
+    height: 100% !important;
+    top: 0 !important;
+    left: 0 !important;
+    background-image: url(./../../images/g6/bg.png) !important;
+    background-size: cover !important;
+    background-position: center center !important;
+}
